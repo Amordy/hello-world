@@ -1,2 +1,6 @@
 # hello-world
-Start example
+Hi there
+
+Amordy here, just getting started so doing this example.
+
+
